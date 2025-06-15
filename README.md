@@ -2,18 +2,18 @@
 
 Analysis of the **US Used Cars Dataset** (Kaggle) with over 3 million records on used cars listed in the US up to 2020. Developed for the Big Data course at Roma Tre University.
 
-## 📁 Dataset
+##  Dataset
 
 - **Format**: CSV (66 columns)
 - **Key fields**: `make_name`, `model_name`, `year`, `price`, `city`, `daysonmarket`, `description`, `horsepower`, `engine_displacement`
 
-## 🔧 Technologies
+##  Technologies
 
 - Hadoop MapReduce
 - Apache Hive
 - Apache Spark SQL
 
-## 🚀 Implemented Jobs
+##  Implemented Jobs
 
 ### Job 1 – Brand & Model Statistics
 
@@ -41,7 +41,7 @@ Group car models with **similar engine specs**:
   - **Avg. price**
   - **Model with max horsepower**
 
-## ⚙️ Setup & Execution
+##  Setup & Execution
 
 ```bash
 git clone https://github.com/ricmoccia/progetto-big-data.git
