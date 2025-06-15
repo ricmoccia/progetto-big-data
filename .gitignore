@@ -1,0 +1,14 @@
+# File temporanei
+*.log
+*.tmp
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Editor e IDE
+.vscode/
+.idea/
+
+# Backup
+*~
