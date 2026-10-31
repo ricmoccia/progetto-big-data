@@ -1,0 +1,10 @@
+AM General,Hummer	1 auto	Prezzo min: 124995.00	Prezzo max: 124995.00	Prezzo medio: 124995.00	Anni: 1998
+Acura,CL	2 auto	Prezzo min: 1500.00	Prezzo max: 5995.00	Prezzo medio: 3747.50	Anni: 2001, 2003
+Acura,ILX	392 auto	Prezzo min: 7995.00	Prezzo max: 33075.00	Prezzo medio: 24841.55	Anni: 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+Acura,ILX Hybrid	5 auto	Prezzo min: 9997.00	Prezzo max: 17997.00	Prezzo medio: 13697.60	Anni: 2013, 2014
+Acura,Integra	1 auto	Prezzo min: 5999.00	Prezzo max: 5999.00	Prezzo medio: 5999.00	Anni: 2000
+Acura,MDX	2061 auto	Prezzo min: 2400.00	Prezzo max: 63745.00	Prezzo medio: 40008.41	Anni: 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+Acura,MDX Hybrid Sport	47 auto	Prezzo min: 33450.00	Prezzo max: 61175.00	Prezzo medio: 53255.38	Anni: 2017, 2018, 2019, 2020
+Acura,NSX	14 auto	Prezzo min: 39950.00	Prezzo max: 198795.00	Prezzo medio: 137119.79	Anni: 1991, 2004, 2017, 2018, 2019, 2020
+Acura,RDX	1403 auto	Prezzo min: 4495.00	Prezzo max: 49920.00	Prezzo medio: 34443.99	Anni: 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+Acura,RL	25 auto	Prezzo min: 1999.00	Prezzo max: 10200.00	Prezzo medio: 6375.92	Anni: 1997, 2000, 2002, 2003, 2005, 2006, 2008, 2011

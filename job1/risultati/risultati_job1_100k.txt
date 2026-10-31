@@ -1,0 +1,10 @@
+Acura,ILX	66 auto	Prezzo min: 10944.00	Prezzo max: 32805.00	Prezzo medio: 25082.92	Anni: 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+Acura,ILX Hybrid	1 auto	Prezzo min: 15500.00	Prezzo max: 15500.00	Prezzo medio: 15500.00	Anni: 2014
+Acura,MDX	398 auto	Prezzo min: 4200.00	Prezzo max: 63745.00	Prezzo medio: 40867.37	Anni: 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+Acura,MDX Hybrid Sport	9 auto	Prezzo min: 33450.00	Prezzo max: 61175.00	Prezzo medio: 50883.11	Anni: 2017, 2018, 2020
+Acura,NSX	1 auto	Prezzo min: 79900.00	Prezzo max: 79900.00	Prezzo medio: 79900.00	Anni: 1991
+Acura,RDX	258 auto	Prezzo min: 4495.00	Prezzo max: 49525.00	Prezzo medio: 32934.98	Anni: 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+Acura,RL	6 auto	Prezzo min: 3990.00	Prezzo max: 8995.00	Prezzo medio: 6927.83	Anni: 2002, 2005, 2006
+Acura,RLX	11 auto	Prezzo min: 15799.00	Prezzo max: 56325.00	Prezzo medio: 40426.27	Anni: 2014, 2015, 2017, 2018, 2020
+Acura,RLX Hybrid Sport	8 auto	Prezzo min: 58457.00	Prezzo max: 63295.00	Prezzo medio: 62329.62	Anni: 2020
+Acura,RSX	2 auto	Prezzo min: 4990.00	Prezzo max: 14999.00	Prezzo medio: 9994.50	Anni: 2002, 2005
